@@ -15,8 +15,6 @@
 - https://github.com/scutan90/DeepLearning-500-questions
 
   深度学习500问
-  
-- 
 
 ## 前端
 
@@ -85,6 +83,10 @@
 - https://github.com/tumobi/nideshop
 
   NideShop：基于Node.js+MySQL开发的开源商城（服务端） https://nideshop.com/
+  
+- https://github.com/jimuyouyou/node-interview-questions
+
+  Node.js面试题，侧重后端应用与对Node核心的理解
 
 ## 安全
 
@@ -111,6 +113,20 @@
 - https://github.com/tiancode/learn-hacking
 
   开始学习Kali Linux 各种破解教程 渗透测试 逆向工程 HackThisSite挑战问题解答
+  
+- https://github.com/tennc/webshell
+  
+  webshell收集项目
+
+## 笔记
+
+- https://github.com/woai30231/http
+
+  关于《HTTP权威指南》每章的知识点总结！
+  
+- https://github.com/lzufalcon/algorithm-exercise
+
+  Data Structure and Algorithm. leetcode/lintcode题解/算法学习笔记 http://algorithm.yuanbin.me
 
 ## 面试
 
@@ -135,10 +151,6 @@
 - https://github.com/rptec/rpvideo
 
   v.rpsofts.com源码，国内视频网站解析，会员破解（部分站点近期更新解析算法，已不支持youku等会员视频），去广告。。你可以利用api自己做视频站，，同时api也可以适用于各主流电影cms站。 http://v.rpsofts.com/
-  
-- https://github.com/lzufalcon/algorithm-exercise
-
-  Data Structure and Algorithm. leetcode/lintcode题解/算法学习笔记 http://algorithm.yuanbin.me
   
 - https://github.com/markyun/My-blog
 
