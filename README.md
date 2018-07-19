@@ -47,6 +47,10 @@
 - https://github.com/you-dont-need/You-Dont-Need-JavaScript
 
   纯css实现强悍的功能
+  
+- https://github.com/S-mohan/mo-css
+
+  非组件级的没有任何套路的纯css框架
 
 ## 后端
 
@@ -109,3 +113,7 @@
 - https://github.com/localhost02/Taobao_order_robot
 
   【CSDN等资源代下】Python淘宝自动发货机器人（Selenium+Bs4+Requests+Autoit）
+  
+- https://github.com/rptec/rpvideo
+
+  v.rpsofts.com源码，国内视频网站解析，会员破解（部分站点近期更新解析算法，已不支持youku等会员视频），去广告。。你可以利用api自己做视频站，，同时api也可以适用于各主流电影cms站。 http://v.rpsofts.com/
