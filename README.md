@@ -39,6 +39,14 @@
 - https://github.com/bramblex/jsjs
 
   简易的 JavaScript 元循环解释器
+  
+- https://github.com/whxaxes/canvas-test
+
+  很棒的canvas特效
+  
+- https://github.com/you-dont-need/You-Dont-Need-JavaScript
+
+  纯css实现强悍的功能
 
 ## 后端
 
@@ -65,6 +73,10 @@
 - https://github.com/chyingp/nodejs-learning-guide
 
   Nodejs学习笔记以及经验总结
+  
+- https://github.com/tumobi/nideshop
+
+  NideShop：基于Node.js+MySQL开发的开源商城（服务端） https://nideshop.com/
 
 ## 安全
 
