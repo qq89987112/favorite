@@ -93,3 +93,7 @@
 - https://github.com/CyC2018/Interview-Notebook
 
   📚 技术面试需要掌握的基础知识整理
+  
+- https://github.com/localhost02/Taobao_order_robot
+
+  【CSDN等资源代下】Python淘宝自动发货机器人（Selenium+Bs4+Requests+Autoit）
