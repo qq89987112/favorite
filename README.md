@@ -30,6 +30,15 @@
 
   X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
 
+### nodejs
+
+- https://github.com/chenshenhai/koa2-note
+
+  《Koa2进阶学习笔记》持续更新...🎄🎄🎄 https://chenshenhai.github.io/koa2-note/
+  
+- https://github.com/chyingp/nodejs-learning-guide
+
+  Nodejs学习笔记以及经验总结
 
 ## 安全
 
@@ -40,6 +49,10 @@
 - https://github.com/We5ter/Scanners-Box
 
   The toolbox of open source scanners - 安全行业从业者自研开源扫描器合辑
+  
+- https://github.com/Medicean/VulApps
+
+  快速搭建各种漏洞环境(Various vulnerability environment) http://vulapps.evalbug.com/
   
 ## 其他
 
