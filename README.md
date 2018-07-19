@@ -31,6 +31,14 @@
 - https://github.com/kujian/30-seconds-of-css
 
   30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。 http://caibaojian.com/30-seconds-of-css/
+  
+- https://github.com/airbnb/javascript
+
+  JavaScript Style Guide
+  
+- https://github.com/bramblex/jsjs
+
+  简易的 JavaScript 元循环解释器
 
 ## 后端
 
