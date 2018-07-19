@@ -27,6 +27,10 @@
 - https://github.com/laoqiren/web-performance
 
   Web性能的方方面面🚀
+  
+- https://github.com/kujian/30-seconds-of-css
+
+  30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。 http://caibaojian.com/30-seconds-of-css/
 
 ## 后端
 
@@ -77,3 +81,7 @@
 - https://github.com/bannedbook/fanqiang
 
   翻墙-科学上网
+  
+- https://github.com/CyC2018/Interview-Notebook
+
+  📚 技术面试需要掌握的基础知识整理
