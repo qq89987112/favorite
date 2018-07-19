@@ -61,6 +61,10 @@
 - https://github.com/davideuler/architecture.taobao-alibaba
 
   互联网公司架构: 淘宝技术架构，阿里巴巴技术架构
+  
+- https://github.com/xiedacon/notes-vbird-linux
+
+  鸟哥Linux私房菜---学习笔记
 
 ### java
 
@@ -99,6 +103,10 @@
 - https://github.com/vulhub/vulhub
 
   Docker-Compose file for vulnerability environment https://vulhub.org
+  
+- https://github.com/hackstoic/hacker-tools-projects
+
+  黑客工具集合
 
 ## 其他
 
