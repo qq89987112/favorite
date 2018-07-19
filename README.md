@@ -33,6 +33,10 @@
 - https://github.com/xingshaocheng/architect-awesome
 
   后端架构师技术图谱
+  
+- https://github.com/davideuler/architecture.taobao-alibaba
+
+  互联网公司架构: 淘宝技术架构，阿里巴巴技术架构
 
 ### java
 
@@ -64,6 +68,10 @@
 
   快速搭建各种漏洞环境(Various vulnerability environment) http://vulapps.evalbug.com/
   
+- https://github.com/vulhub/vulhub
+
+  Docker-Compose file for vulnerability environment https://vulhub.org
+
 ## 其他
 
 - https://github.com/bannedbook/fanqiang
