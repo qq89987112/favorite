@@ -112,16 +112,22 @@
 
   开始学习Kali Linux 各种破解教程 渗透测试 逆向工程 HackThisSite挑战问题解答
 
-## 其他
+## 面试
 
-- https://github.com/bannedbook/fanqiang
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
-  翻墙-科学上网
+  前端开发者面试题
   
 - https://github.com/CyC2018/Interview-Notebook
 
   📚 技术面试需要掌握的基础知识整理
   
+## 其他
+
+- https://github.com/bannedbook/fanqiang
+
+  翻墙-科学上网
+
 - https://github.com/localhost02/Taobao_order_robot
 
   【CSDN等资源代下】Python淘宝自动发货机器人（Selenium+Bs4+Requests+Autoit）
@@ -133,3 +139,11 @@
 - https://github.com/lzufalcon/algorithm-exercise
 
   Data Structure and Algorithm. leetcode/lintcode题解/算法学习笔记 http://algorithm.yuanbin.me
+  
+- https://github.com/markyun/My-blog
+
+  马云云的Github博客，记录一些学习的片段。
+  
+- https://github.com/animalize/infopi
+
+  个人信息收集服务器，不错过感兴趣的信息。为树莓派优化。 http://www.cnblogs.com/infopi/
