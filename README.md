@@ -18,6 +18,10 @@
 
 ## 前端
 
+- https://github.com/demopark/electron-api-demos-Zh_CN
+
+  这是 electron-api-demos 的中文版本, 更新至 v1.3.0
+
 - https://github.com/chokcoco/iCSS
 
   谈谈一些有趣的 CSS 话题
