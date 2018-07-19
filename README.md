@@ -5,4 +5,14 @@
 ## 人工智能
 - https://github.com/amusi/daily-paper-computer-vision
 
-  记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
+  记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文。
+
+- https://github.com/farzaa/DeepLeague
+
+  英雄联盟的地图人物目标检测。
+  
+- https://github.com/scutan90/DeepLearning-500-questions
+
+  深度学习500问
+  
+- 
