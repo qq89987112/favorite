@@ -18,6 +18,10 @@
 
 ## 前端
 
+- https://github.com/paazmaya/shuji
+
+  source map 还原
+
 - https://github.com/demopark/electron-api-demos-Zh_CN
 
   这是 electron-api-demos 的中文版本, 更新至 v1.3.0
