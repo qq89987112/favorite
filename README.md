@@ -18,6 +18,11 @@
 
 ## 前端
 
+- https://github.com/avwo/whistle
+
+  HTTP, HTTPS, WebSocket debugging proxy https://avwo.github.io/whistle/
+  可以注入vConsole、Eruda;编写plugins;
+
 - https://github.com/infinitered/reactotron
 
   A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
